@@ -1,0 +1,29 @@
+.Panel {
+    border: 1px solid gray;
+    margin: 10px auto;
+    width: 50%;
+}
+
+.Panel-header {
+    background-color: lightgrey;
+    border-bottom: 1px solid gray;
+    margin: 0;
+    padding: 10px;
+}
+
+.Panel-comment {
+    color: grey;
+    font-style: italic;
+}
+
+.Panel-button {
+    background-color: firebrick;
+    border: none;
+    color: white;
+    margin: 10px 0;
+    padding: 5px;
+}
+.Panel-button:hover {
+    background-color: forestgreen;
+    cursor: pointer;
+}
