@@ -1,1 +1,1 @@
-# ReacyJS Test App
+# ReactJS Test App
